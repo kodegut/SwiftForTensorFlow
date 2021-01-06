@@ -15,4 +15,4 @@ Ongoing training project...
 
 ## Personal Findings:
 - no typealiases needed for imported packages due to syntax change (compared to python)
-- google colab makes it harder to look deep into the tf framework, might install it locally for next session to use it in Xcode
+- google colab makes it harder to look deep into the tf framework, might install it locally for next session to use it in Xcode, or use Google Chrome
