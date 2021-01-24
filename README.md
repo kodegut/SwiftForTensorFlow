@@ -9,11 +9,10 @@ Ongoing training project...
   - Import data
   - Explore data
   - Create Model
-  ...
+  - ...
 
 ## Current Next Steps:
-- getting more familiar with Swift protocols & extensions
-- getting more familiar with Swift property wrappers
+- investigate on valueWithGradient function
 - continue Iris Flower Classification notebook
 
 ## Personal Findings:
