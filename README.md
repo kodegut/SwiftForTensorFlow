@@ -2,7 +2,7 @@
 
 Trying out the Swift implementation of the tensorflow framework.
 
-## Lessons learned:
+## Key Lessons learned:
 - Setting up a notebook with Swift kernel on Google Colab
 - Use Python in a Swift environment (PythonKit)
 - Classification of Iris Flowers
